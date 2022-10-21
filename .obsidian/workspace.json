@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3da16696fbf8f2bf",
+        "id": "e089d0707a2813b2",
         "type": "tabs",
         "children": [
           {
-            "id": "e937a9537c7f3fc6",
+            "id": "40344e504e298892",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具篇.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f95cda4809ec9807",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           }
         ]
@@ -144,9 +139,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f95cda4809ec9807",
+  "active": "40344e504e298892",
   "lastOpenFiles": [
     "工具篇.md",
+    "2022-10-18.md",
     "111/hjagsfjmadsh.md"
   ]
 }
